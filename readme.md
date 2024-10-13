@@ -1,6 +1,8 @@
 ## ML Assisted Web Load Balancing using Kubernetes and KEDA
 This project, titled "ML Assisted Web Load Balancing," explores the integration of machine learning algorithms to enhance the autoscaling of Kubernetes pods for web services. The primary goal is to develop a system that intelligently adjusts the number of active pods based on real-time usage metrics, ensuring optimal performance and resource utilization.
 
+![Project Architecture](https://github.com/sid-js/ml-assisted-load-balancer/blob/82b8faa2c880707bcbb47d39375172dcfb94049f/image.png)
+
 
 ## Prerequisites
 
